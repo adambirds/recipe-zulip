@@ -1,5 +1,5 @@
 # Zulip for Franz
-This is the Franz Recipe for Zulip
+This is the Franz 5 Recipe for Zulip
 
 ### For further informtion on Zulip:
 * [Visit the website](https://zulipchat.com/why-zulip/)
